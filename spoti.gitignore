@@ -1,3 +1,4 @@
 spotivenv/
 *.csh
 spotivev/*
+.cache
